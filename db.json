@@ -5,6 +5,12 @@
       "name": "json-server",
       "location": "typicode",
       "date": "today"
+    },
+    {
+      "id": 2,
+      "name": "json-server",
+      "location": "typicode",
+      "date": "today"
     }
   ]
 }

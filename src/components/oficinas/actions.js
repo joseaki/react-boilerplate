@@ -14,7 +14,7 @@ export const listarOficinas = () => async dispatch => {
   } catch (error) {
     dispatch({
       type: ERROR,
-      payload: "Info de usuario no diponible, Intente mas tarde."
+      payload: "Error, Intente mas tarde."
     });
   }
 };
